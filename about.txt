@@ -3,4 +3,4 @@ Name: Zhenis
 Role: Future Fullstack Developer
 Skills: HTML, CSS, JavaScript, Python
 Goal: Become a professional software developer.
-
+Currently learning Git and GitHub.
